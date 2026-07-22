@@ -1,5 +1,5 @@
 # Modular-Power-Bank
-A power bank with attachable modules and up to 45W output
+A power bank with attachable modules
 # Disclamer
 None of the PCBs have been fully tested, so I can't guarantee that they will function correctly. Use them at your own risk.
 # Features
