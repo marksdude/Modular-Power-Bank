@@ -6,4 +6,4 @@ A power bank with attachable modules and up to 45W output
 - Attachable modules
 - Repairable design
 # Modules
-- LED controller: Allows you to control 5V LEDs with Home Assistant
+- LED controller Allows you to control 5V LEDs with Home Assistant
