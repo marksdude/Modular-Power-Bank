@@ -1,7 +1,7 @@
 # Modular-Power-Bank
 A power bank with attachable modules
 # Disclamer
-None of the PCBs have been fully tested, so I can't guarantee that they will function correctly. Use them at your own risk.
+None of the PCBs have been fully tested so I can't guarantee that they will function correctly. Use them at your own risk.
 # Features
 - USB PD output up to 45W (may handle 60W)
 - 0.91 inch OLED for status monitoring
